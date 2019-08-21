@@ -2,7 +2,7 @@ Doveo - The Challenge <br/>
 Your challenge, is to develop an AWS S3 storage analysis tool. 
 <br/>
 Specifications<br/>
-The tool is a shell command (could be either Windows, Mac or Linux) that returns informations over all S3 buckets in an Amazon<br/> account.<br/>
+The tool is a shell command (could be either Windows, Mac or Linux) that returns informations over all S3 buckets in an Amazon account.<br/>
 <br/>
 The tool must returns the following informations:<br/>
 Bucket name<br/>
@@ -22,6 +22,6 @@ Some statistics to check the percentage of space occupied by a bucket or any oth
 <br/>
 Rules<br/>
 Your are free to use the programming language and the SDK of your choice.<br/>
-We will test your work over our environment (which contains millions of files). The overall performance of your tool will be<br/> evaluated.<br/>
+We will test your work over our environment (which contains millions of files). The overall performance of your tool will be evaluated.<br/>
 Your code must be made available as a git fork of our challenge or any other public version control software.<br/>
 Ref: https://github.com/search?l=Python&o=desc&q=s3%2Bsize&s=updated&type=Repositories<br/>
